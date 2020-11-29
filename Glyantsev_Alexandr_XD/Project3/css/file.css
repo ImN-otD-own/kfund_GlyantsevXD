@@ -1,0 +1,76 @@
+img {
+    width: 120px;
+    height: 120px;
+    border: 2px solid rgb(117, 117, 117);
+    border-radius: 10px;
+    background: radial-gradient(circle, rgba(71,71,71,1) 0%, rgba(0,0,0,1) 100%);
+}
+.name {
+    padding: 40px;
+    margin: 20px;
+    color: aliceblue;
+    background-color: rgb(32, 32, 32);
+}
+.soul {
+    padding: 40px;
+    margin: 20px;
+    color: aliceblue;
+    
+background: linear-gradient(150deg, rgba(112,43,0,1) 0%, rgba(161,87,18,1) 35%, rgba(69,17,0,1) 100%);
+}
+.time {
+    padding: 40px;
+    margin: 20px;
+    color: aliceblue;
+    background: linear-gradient(150deg, rgba(0,112,103,1) 0%, rgba(103,162,11,1) 49%, rgba(1,69,0,1) 100%);
+}
+.space {
+    padding: 40px;
+    margin: 20px;
+    color:aliceblue;
+    background: linear-gradient(150deg, rgba(0,27,223,1) 0%, rgba(11,151,162,1) 49%, rgba(20,0,99,1) 100%);
+}
+.mind {
+    padding: 40px;
+    margin: 20px;
+    color:aliceblue;
+    background: linear-gradient(150deg, rgba(223,213,0,1) 0%, rgba(148,162,11,1) 49%, rgba(114,125,4,1) 100%);
+}
+.reality {
+    padding: 40px;
+    margin: 20px;
+    color:aliceblue;
+    background: linear-gradient(150deg, rgba(223,33,0,1) 0%, rgba(163,2,54,1) 49%, rgba(187,0,0,1) 100%);
+}
+.power {
+    padding: 40px;
+    margin: 20px;
+    color:aliceblue;
+    background: linear-gradient(150deg, rgba(21,12,27,1) 0%, rgba(94,2,163,1) 49%, rgba(64,0,89,1) 100%);
+}
+body {
+    background-color: aqua;
+    background-image: url(https://klike.net/uploads/posts/2019-06/1561182942_2.jpg);
+}
+.link {
+    padding: 40px;
+    margin: 20px;
+    color: aliceblue;
+    background-color: rgb(32, 32, 32);
+}
+.link2 {
+    padding: 40px;
+    margin: 20px;
+    color: aliceblue;
+}
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
+a {
+    color: aliceblue;
+}
+td {
+    text-align: center;
+    font-style: ;
+}
